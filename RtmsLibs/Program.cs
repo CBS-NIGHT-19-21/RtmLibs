@@ -12,6 +12,7 @@ namespace RtmsLibs
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Good Bye World");
+            Console.ReadKey();
         }
     }
 }
